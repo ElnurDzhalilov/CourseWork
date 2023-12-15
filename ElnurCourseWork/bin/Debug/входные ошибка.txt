@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<InputParam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LBorder1>-4</LBorder>
+  <RBorder>1</RBorder>
+  <Foo>abs(cos(x))</Foo>
+</InputParam>
